@@ -7,6 +7,8 @@ https://dbfz-helper.firebaseapp.com/
 * Back End Code: https://github.com/TMustard/DBFZ-backend
 
 ![img](https://i.imgur.com/PJw9npS.png)
+![img](https://i.imgur.com/bVjQ9IX.png)
+![img](https://i.imgur.com/l9KM3Rr.png)
 
 To run this project locally: 
 
