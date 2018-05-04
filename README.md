@@ -1,4 +1,4 @@
-# Dragonball-FighterZ-Helper
+This is a website for players of Dragonball FighterZ to read, submit, and edit gameplay tips and guides. The front end was built with React and the back end uses NodeJS, Express, Knex and Postgres. 
 
 https://dbfz-helper.firebaseapp.com/
 
