@@ -12,3 +12,5 @@ Fork and/or clone the front end repo
 
 In your CLI use `npm install` to install the dependencies 
 
+Contact me: tjm.0084@gmail.com linkedin.com/in/tylermustard
+
